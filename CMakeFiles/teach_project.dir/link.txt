@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/teach_project.dir/main.cpp.o -o teach_project.exe -Wl,--out-implib,libteach_project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
